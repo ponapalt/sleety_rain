@@ -24,9 +24,14 @@ font.color.r,70
 font.color.g,40
 font.color.b,48
 
-anchor.font.color.r,95
-anchor.font.color.g,59
-anchor.font.color.b,125
+anchor.font.color.r,85
+anchor.font.color.g,85
+anchor.font.color.b,215
+anchor.style,underline
+anchor.notselect.font.color.r,95
+anchor.notselect.font.color.g,59
+anchor.notselect.font.color.b,125
+anchor.notselect.style,underline
 
 cursor.blendmethod,none
 cursor.style,square
