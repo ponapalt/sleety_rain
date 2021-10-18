@@ -1,0 +1,4 @@
+charset,Shift_JIS
+type,balloon
+name,Sleety Rain
+directory,sleety_rain
